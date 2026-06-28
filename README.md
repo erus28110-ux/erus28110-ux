@@ -60,10 +60,8 @@
 ## 📊 إحصائيات GitHub / GitHub Stats
 
 <div align="center">
+![GitHub Streak](https://streak-stats.demolab.com?user=erus28110-ux&theme=tokyonight&hide_border=true&locale=ar) 
 
-![Nabil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erus28110-ux&show_icons=true&theme=tokyonight&locale=ar&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erus28110-ux&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
